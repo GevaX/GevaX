@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GevaX
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on my website gevax.github.io
 - 📫 How to reach me ...
 
 <!---
