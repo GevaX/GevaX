@@ -1,3 +1,6 @@
+# 👏 Hello world
+Welcome to my page
+hi, I'm geva, a self taught software engineer and web developer from Israel.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gevax) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/GevaX) 
